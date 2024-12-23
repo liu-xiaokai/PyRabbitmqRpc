@@ -1,6 +1,8 @@
 # PyRabbitmqRpc
  ##### This package mainly provides a solution for developers to implement RPC functionality using RabbitMQ.
 
+demo https://github.com/liu-xiaokai/PyRabbitmqRpc/tree/main/demo
+
 
 ``this is a simple example
 ``
